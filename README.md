@@ -10,5 +10,5 @@
 
 2. **The Overall Ratings of each Airline**![Airline_Review_(1)-3 1](https://github.com/bankolemmnl/Power-BI-Projects/assets/81848843/f6b7ba00-5a45-4e9e-9914-f99eddac1d86)*Despite All Nippon Airways being the 8th most patronized, it had the highest overall ratings followed by Qatar Airways and EVA Air.*
 
-3. **How recommendable are the Airlines by the existing customer** ![Airline_Review_(1)-4 1](https://github.com/bankolemmnl/Power-BI-Projects/assets/81848843/435e85be-d774-4979-a92c-5142ddeb40f2)*Qatar Airways was mostly recommended*
+3. **How recommendable are the Airlines by their existing customer** ![Airline_Review_(1)-4 1](https://github.com/bankolemmnl/Power-BI-Projects/assets/81848843/435e85be-d774-4979-a92c-5142ddeb40f2)*Qatar Airways was mostly recommended*
 
